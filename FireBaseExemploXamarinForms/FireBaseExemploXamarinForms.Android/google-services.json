@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "469746841749",
+    "firebase_url": "https://fir-exemploxamarinforms.firebaseio.com",
+    "project_id": "fir-exemploxamarinforms",
+    "storage_bucket": "fir-exemploxamarinforms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469746841749:android:355fa7ba83862607dfc39c",
+        "android_client_info": {
+          "package_name": "com.companyname.firebaseexemploxamarinforms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469746841749-b748c519u7jocivenecso2kcpacv0bn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCFOzQxgZETw7TbaE4xeuiUwfYpq-nOmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469746841749-b748c519u7jocivenecso2kcpacv0bn1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469746841749-10qi9s9n7snmb5so7osc4cr806g2sklq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.companyname.FireBaseExemploXamarinForms"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
